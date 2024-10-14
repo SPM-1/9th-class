@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>My Wish List</title>
+</head>
+<body>
+
+    <h1>My Wish List</h1>
+    
+    <p>Here are the things I wish for:</p>
+
+    <ul>
+        <li>New Laptop</li>
+        <li>Travel to Japan</li>
+        <li>Learn a new programming language</li>
+        <li>Buy a mountain bike</li>
+        <li>Get a pet dog</li>
+    </ul>
+
+    <p>These are just a few of the things I hope to accomplish or acquire!</p>
+
+</body>
+</html>
